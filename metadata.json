@@ -1,12 +1,12 @@
 {
-  "name": "ghoneycutt-nrpe",
-  "version": "1.2.0",
-  "author": "ghoneycutt",
+  "name": "erobhal-nrpe",
+  "version": "2.0.0",
+  "author": "erobhal",
   "summary": "Manage NRPE",
   "license": "Apache-2.0",
-  "source": "git://github.com/ghoneycutt/puppet-module-nrpe.git",
-  "project_page": "https://github.com/ghoneycutt/puppet-module-nrpe",
-  "issues_url": "https://github.com/ghoneycutt/puppet-module-nrpe/issues",
+  "source": "git://github.com/erobhal/puppet-module-nrpe.git",
+  "project_page": "https://github.com/erobhal/puppet-module-nrpe",
+  "issues_url": "https://github.com/erobhal/puppet-module-nrpe/issues",
   "requirements": [
     {
       "name": "pe",
